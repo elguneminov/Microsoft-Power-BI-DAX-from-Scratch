@@ -1,1 +1,2 @@
-# Microsoft-Power-BI-DAX-from-Scratch
+# Hands-on guide to Microsoft Power BI DAX
+
